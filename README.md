@@ -60,4 +60,3 @@ Databases:
     </a>
 </p>
 
-# Siddhesh_Palimkar
